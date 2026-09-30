@@ -83,6 +83,7 @@ See `voices/Kokoro Voices/README.md` for the package contents and provenance.
 ├── kokoro_voice_attributes.json
 ├── requirements.txt
 ├── BUILD.md
+├── LICENSE
 ├── THIRD_PARTY_NOTICES.md
 ├── docs/
 │   └── screenshots/
@@ -115,4 +116,4 @@ This GUI uses Resemble AI's Chatterbox Turbo and includes reference audio genera
 
 ## Project license
 
-No license for this GUI has been selected in this package. A public GitHub repository is viewable without granting broad reuse rights. If you want others to be able to modify and redistribute the GUI, add a project license such as MIT before publishing.
+This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for the full license text.
