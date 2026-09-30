@@ -1,0 +1,629 @@
+{
+  "note": "Style descriptors are community-maintained listening labels, not official Kokoro personality labels. Use them as audition hints.",
+  "voice_count": 54,
+  "current_reference_pack_voice_count": 53,
+  "voices": [
+    {
+      "voice_id": "af_alloy",
+      "display_name": "Alloy",
+      "language_variant": "American English",
+      "gender": "Female",
+      "style": "Clear, professional",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "af_aoede",
+      "display_name": "Aoede",
+      "language_variant": "American English",
+      "gender": "Female",
+      "style": "Smooth, melodic",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "af_bella",
+      "display_name": "Bella",
+      "language_variant": "American English",
+      "gender": "Female",
+      "style": "Warm, friendly / expressive",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "af_heart",
+      "display_name": "Heart",
+      "language_variant": "American English",
+      "gender": "Female",
+      "style": "Warm, natural",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "af_jessica",
+      "display_name": "Jessica",
+      "language_variant": "American English",
+      "gender": "Female",
+      "style": "Natural, engaging / energetic",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "af_kore",
+      "display_name": "Kore",
+      "language_variant": "American English",
+      "gender": "Female",
+      "style": "Bright, energetic",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "af_nicole",
+      "display_name": "Nicole",
+      "language_variant": "American English",
+      "gender": "Female",
+      "style": "Professional, articulate / friendly",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "af_nova",
+      "display_name": "Nova",
+      "language_variant": "American English",
+      "gender": "Female",
+      "style": "Modern, dynamic / clear",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "af_river",
+      "display_name": "River",
+      "language_variant": "American English",
+      "gender": "Female",
+      "style": "Soft, flowing / calm",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "af_sarah",
+      "display_name": "Sarah",
+      "language_variant": "American English",
+      "gender": "Female",
+      "style": "Casual, approachable / conversational",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "af_sky",
+      "display_name": "Sky",
+      "language_variant": "American English",
+      "gender": "Female",
+      "style": "Light, airy / neutral",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": false
+    },
+    {
+      "voice_id": "am_adam",
+      "display_name": "Adam",
+      "language_variant": "American English",
+      "gender": "Male",
+      "style": "Deep / strong, confident",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "am_echo",
+      "display_name": "Echo",
+      "language_variant": "American English",
+      "gender": "Male",
+      "style": "Resonant, clear / neutral",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "am_eric",
+      "display_name": "Eric",
+      "language_variant": "American English",
+      "gender": "Male",
+      "style": "Professional, authoritative",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "am_fenrir",
+      "display_name": "Fenrir",
+      "language_variant": "American English",
+      "gender": "Male",
+      "style": "Deep, powerful / distinctive",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "am_liam",
+      "display_name": "Liam",
+      "language_variant": "American English",
+      "gender": "Male",
+      "style": "Friendly, conversational",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "am_michael",
+      "display_name": "Michael",
+      "language_variant": "American English",
+      "gender": "Male",
+      "style": "Warm, trustworthy / clear",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "am_onyx",
+      "display_name": "Onyx",
+      "language_variant": "American English",
+      "gender": "Male",
+      "style": "Rich, sophisticated",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "am_puck",
+      "display_name": "Puck",
+      "language_variant": "American English",
+      "gender": "Male",
+      "style": "Playful, energetic / expressive",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "am_santa",
+      "display_name": "Santa",
+      "language_variant": "American English",
+      "gender": "Male",
+      "style": "Warm",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "bf_alice",
+      "display_name": "Alice",
+      "language_variant": "British English",
+      "gender": "Female",
+      "style": "Refined, elegant / crisp",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "bf_emma",
+      "display_name": "Emma",
+      "language_variant": "British English",
+      "gender": "Female",
+      "style": "Warm, professional / clear",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "bf_isabella",
+      "display_name": "Isabella",
+      "language_variant": "British English",
+      "gender": "Female",
+      "style": "Sophisticated, clear / warm",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "bf_lily",
+      "display_name": "Lily",
+      "language_variant": "British English",
+      "gender": "Female",
+      "style": "Sweet, gentle / soft",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "bm_daniel",
+      "display_name": "Daniel",
+      "language_variant": "British English",
+      "gender": "Male",
+      "style": "Polished, professional / calm",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "bm_fable",
+      "display_name": "Fable",
+      "language_variant": "British English",
+      "gender": "Male",
+      "style": "Storytelling, engaging / expressive",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "bm_george",
+      "display_name": "George",
+      "language_variant": "British English",
+      "gender": "Male",
+      "style": "Authoritative, classic British",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "bm_lewis",
+      "display_name": "Lewis",
+      "language_variant": "British English",
+      "gender": "Male",
+      "style": "Smooth, modern British",
+      "descriptor_source": [
+        "hwdsl2/docker-kokoro",
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "ef_dora",
+      "display_name": "Dora",
+      "language_variant": "Spanish",
+      "gender": "Female",
+      "style": "Clear, youthful",
+      "descriptor_source": [
+        "alhazacod/clipforge"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "em_alex",
+      "display_name": "Alex",
+      "language_variant": "Spanish",
+      "gender": "Male",
+      "style": "Youthful, neutral",
+      "descriptor_source": [
+        "alhazacod/clipforge"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "em_santa",
+      "display_name": "Santa",
+      "language_variant": "Spanish",
+      "gender": "Male",
+      "style": "Older, warm",
+      "descriptor_source": [
+        "alhazacod/clipforge"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "ff_siwis",
+      "display_name": "Siwis",
+      "language_variant": "French",
+      "gender": "Female",
+      "style": "French voice",
+      "descriptor_source": [
+        "fpgnl/Kokoro-TTS-local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "hf_alpha",
+      "display_name": "Alpha",
+      "language_variant": "Hindi",
+      "gender": "Female",
+      "style": "Clear, precise",
+      "descriptor_source": [
+        "lobstersyrup/kokoro-tts"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "hf_beta",
+      "display_name": "Beta",
+      "language_variant": "Hindi",
+      "gender": "Female",
+      "style": "Softer tone",
+      "descriptor_source": [
+        "lobstersyrup/kokoro-tts"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "hm_omega",
+      "display_name": "Omega",
+      "language_variant": "Hindi",
+      "gender": "Male",
+      "style": "Deep",
+      "descriptor_source": [
+        "lobstersyrup/kokoro-tts"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "hm_psi",
+      "display_name": "Psi",
+      "language_variant": "Hindi",
+      "gender": "Male",
+      "style": "Calm",
+      "descriptor_source": [
+        "lobstersyrup/kokoro-tts"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "if_sara",
+      "display_name": "Sara",
+      "language_variant": "Italian",
+      "gender": "Female",
+      "style": "Expressive",
+      "descriptor_source": [
+        "lobstersyrup/kokoro-tts"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "im_nicola",
+      "display_name": "Nicola",
+      "language_variant": "Italian",
+      "gender": "Male",
+      "style": "Warm",
+      "descriptor_source": [
+        "lobstersyrup/kokoro-tts"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "jf_alpha",
+      "display_name": "Alpha",
+      "language_variant": "Japanese",
+      "gender": "Female",
+      "style": "Clear",
+      "descriptor_source": [
+        "lobstersyrup/kokoro-tts"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "jf_gongitsune",
+      "display_name": "Gongitsune",
+      "language_variant": "Japanese",
+      "gender": "Female",
+      "style": "Softer tone",
+      "descriptor_source": [
+        "lobstersyrup/kokoro-tts"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "jf_nezumi",
+      "display_name": "Nezumi",
+      "language_variant": "Japanese",
+      "gender": "Female",
+      "style": "Gentle",
+      "descriptor_source": [
+        "lobstersyrup/kokoro-tts"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "jf_tebukuro",
+      "display_name": "Tebukuro",
+      "language_variant": "Japanese",
+      "gender": "Female",
+      "style": "Warm",
+      "descriptor_source": [
+        "lobstersyrup/kokoro-tts"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "jm_kumo",
+      "display_name": "Kumo",
+      "language_variant": "Japanese",
+      "gender": "Male",
+      "style": "",
+      "descriptor_source": [
+        "lobstersyrup/kokoro-tts"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "pf_dora",
+      "display_name": "Dora",
+      "language_variant": "Brazilian Portuguese",
+      "gender": "Female",
+      "style": "",
+      "descriptor_source": [
+        "OpenTTSGroup/kokoro-open-tts"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "pm_alex",
+      "display_name": "Alex",
+      "language_variant": "Brazilian Portuguese",
+      "gender": "Male",
+      "style": "",
+      "descriptor_source": [
+        "OpenTTSGroup/kokoro-open-tts"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "pm_santa",
+      "display_name": "Santa",
+      "language_variant": "Brazilian Portuguese",
+      "gender": "Male",
+      "style": "",
+      "descriptor_source": [
+        "OpenTTSGroup/kokoro-open-tts"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "zf_xiaobei",
+      "display_name": "Xiaobei",
+      "language_variant": "Mandarin Chinese",
+      "gender": "Female",
+      "style": "Young, energetic",
+      "descriptor_source": [
+        "PierrunoYT/Kokoro-TTS-Local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "zf_xiaoni",
+      "display_name": "Xiaoni",
+      "language_variant": "Mandarin Chinese",
+      "gender": "Female",
+      "style": "Clear, friendly",
+      "descriptor_source": [
+        "PierrunoYT/Kokoro-TTS-Local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "zf_xiaoxiao",
+      "display_name": "Xiaoxiao",
+      "language_variant": "Mandarin Chinese",
+      "gender": "Female",
+      "style": "Soft, gentle",
+      "descriptor_source": [
+        "PierrunoYT/Kokoro-TTS-Local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "zf_xiaoyi",
+      "display_name": "Xiaoyi",
+      "language_variant": "Mandarin Chinese",
+      "gender": "Female",
+      "style": "Professional, articulate",
+      "descriptor_source": [
+        "PierrunoYT/Kokoro-TTS-Local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "zm_yunjian",
+      "display_name": "Yunjian",
+      "language_variant": "Mandarin Chinese",
+      "gender": "Male",
+      "style": "Strong, confident",
+      "descriptor_source": [
+        "PierrunoYT/Kokoro-TTS-Local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "zm_yunxi",
+      "display_name": "Yunxi",
+      "language_variant": "Mandarin Chinese",
+      "gender": "Male",
+      "style": "Warm, professional",
+      "descriptor_source": [
+        "PierrunoYT/Kokoro-TTS-Local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "zm_yunxia",
+      "display_name": "Yunxia",
+      "language_variant": "Mandarin Chinese",
+      "gender": "Male",
+      "style": "Calm, steady",
+      "descriptor_source": [
+        "PierrunoYT/Kokoro-TTS-Local"
+      ],
+      "in_current_53_voice_pack": true
+    },
+    {
+      "voice_id": "zm_yunyang",
+      "display_name": "Yunyang",
+      "language_variant": "Mandarin Chinese",
+      "gender": "Male",
+      "style": "Resonant, deep",
+      "descriptor_source": [
+        "PierrunoYT/Kokoro-TTS-Local"
+      ],
+      "in_current_53_voice_pack": true
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+# Local Python environments / downloaded dependencies
+.venv/
+venv/
+env/
+
+# Windows launch/install helpers are intentionally local-only.
+# Recreate them from BUILD.md after cloning.
+*.bat
+*.cmd
+
+# Generated audio, recordings and runtime logs
+output/
+recordings/
+logs/
+*.log
+
+# Python cache/build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editors / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local secrets/config if added later
+.env
+.env.*
+!.env.example
+
+# Temporary/archive files
+*.tmp
+*.temp
+*.bak
+*.7z
+*.zip

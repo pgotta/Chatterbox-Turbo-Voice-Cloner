@@ -1,0 +1,5 @@
+# Application-level dependencies.
+# For the tested CUDA/PyTorch setup, follow BUILD.md rather than installing this file alone.
+chatterbox-tts==0.1.7
+sounddevice>=0.5.0
+soundfile>=0.12.1
